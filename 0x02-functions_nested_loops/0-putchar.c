@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * main - Entry point
  * Description: prints 'Holberton \n'
@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-char str[] = "holberton\n";
+char str[] = "Holberton\n";
 int i = 0;
 
 while (str[i] != '\0')
